@@ -1,0 +1,11 @@
+# OS X Hidden files
+.DS_Store
+
+# IDE related directories
+.idea/
+
+
+src
+bin 
+pkg
+
